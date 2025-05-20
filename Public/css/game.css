@@ -1,0 +1,17 @@
+#home {
+    position: relative;
+    left: 15rem;
+    bottom: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.poundandright {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    bottom: 3rem;
+    font-size: 50px;
+
+}
